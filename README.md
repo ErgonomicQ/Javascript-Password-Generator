@@ -15,6 +15,8 @@ Afer running the index.HTML in your browser(I use Chrome personally), open up th
 
 https://imgur.com/a/M9s0Dob - screenshots
 
+https://ergonomicq.github.io/Javascript-Password-Generator/ - website to deployed application(github some times publishes the readme, you may need to refresh)
+
 ## Credits
 (n.d.). ParseInt(). Mdn Webdocs. Retrieved May 15, 2023, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
