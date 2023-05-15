@@ -32,9 +32,9 @@ var userresultArray = [];
 
 //Confirm Booleans
    var upCase = confirm("Would you like uppercase letters?");
-   var lowCase = confirm("would you like lowercase letters?");
-   var specialCase = confirm("would you like special characters?");
-   var numberCase = confirm("Would you like Numbers as well?");
+   var lowCase = confirm("Would you like lowercase letters?");
+   var specialCase = confirm("Would you like special characters?");
+   var numberCase = confirm("Would you like numbers as well?");
 
    // console.log to verify
    console.log(upCase)
@@ -45,7 +45,7 @@ var userresultArray = [];
 
    // This confirms if at least ONE character type is selected, and if it is not, it returns the user to the beginning of the prompts.
    if (!upCase && !lowCase && !numberCase && !specialCase){
-    alert( "At least one character type must be selected. Please choose a at least one character type.");
+    alert("At least one character type must be selected. Please choose a at least one character type.");
     return generatePassword();
    }
 
@@ -77,7 +77,8 @@ var Numbers= ['1','2','3','4','5','6','7','8','9','0'];
 
 
 
-// once the resultsArray has been concatnated, a for loop is used, pulling from the length var, and generates a password of the chosen length. 
+// once the resultsArray has been concatnated, a for loop is used, pulling from the length var, and generates a new array by the use of
+// the join method. This randomized array is the output password as a string. 
 
    for (var i=0; i < length; i++) {
     userresultArray.push (resultsArray[Math.floor(Math.random() * resultsArray.length)])};
