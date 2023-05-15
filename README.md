@@ -13,7 +13,8 @@ You can run this program through VS Code, or your chosen code editor
 
 Afer running the index.HTML in your browser(I use Chrome personally), open up the console with Shift+Ctrl+I and then click the Generate password button. Follow the prompts and check in console to see the magic.
 
-https://imgur.com/a/M9s0Dob - screenshots
+https://imgur.com/a/M9s0Dob - screenshots 1
+https://imgur.com/a/sUdvE4p -  screenshots 2
 
 https://ergonomicq.github.io/Javascript-Password-Generator/ - website to deployed application(github some times publishes the readme, you may need to refresh)
 
