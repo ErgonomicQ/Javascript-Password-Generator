@@ -13,12 +13,7 @@ You can run this program through VS Code, or your chosen code editor
 
 Afer running the index.HTML in your browser(I use Chrome personally), open up the console with Shift+Ctrl+I and then click the Generate password button. Follow the prompts and check in console to see the magic.
 
-
-    
-    ![home page](Assets\Javascript-Main.png)
-    
-   
-    ![first prompt](Assets\First Prompt.png)
+https://imgur.com/a/M9s0Dob - screenshots
 
 ## Credits
 (n.d.). ParseInt(). Mdn Webdocs. Retrieved May 15, 2023, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
