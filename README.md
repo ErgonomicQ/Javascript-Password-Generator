@@ -25,6 +25,8 @@ Afer running the index.HTML in your browser(I use Chrome personally), open up th
 
 (n.d.). Java Array Loops. W3 Schools. Retrieved May 15, 2023, from https://www.w3schools.com/java/java_arrays_loop.asp
 
+(n.d.). Array.Prototype.Join(). MDN web Docs. Retrieved May 15, 2023, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+
 
 ## License
 
