@@ -14,10 +14,10 @@ You can run this program through VS Code, or your chosen code editor
 Afer running the index.HTML in your browser(I use Chrome personally), open up the console with Shift+Ctrl+I and then click the Generate password button. Follow the prompts and check in console to see the magic.
 
 
-    ```md
+    
     ![home page](Assets\Javascript-Main.png)
-    ```
-    ```md
+    
+   
     ![first prompt](Assets\First Prompt.png)
 
 ## Credits
